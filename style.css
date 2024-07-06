@@ -134,6 +134,8 @@ main {
 .why-us-list {
   color: var(--light-light-cyan-text);
   line-height: 1.6;
+  list-style: none;
+  padding: 0;
 }
 
 .sign-up-button {
